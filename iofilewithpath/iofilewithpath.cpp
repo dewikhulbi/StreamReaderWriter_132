@@ -29,4 +29,7 @@ int main() {
 	}
 	//selesaikan dalam menulis sekarang tutup filenya
 	outfile.close();
+
+	//membuka file dalam mode membaca
+	ifstream infile;
 }
