@@ -12,4 +12,13 @@ int main() {
 
 	//membuka file dalam mode menulis
 	ofstream outfile;
+	//menunjuk ke sebuah nama file
+	outfile.open(NamaFile, ios::out);
+
+	cout << ">=Menulis File,\'q\'untuk keluar" << endl;
+
+	//unlimited loop untuk menulis
+	while (true) {
+
+	}
 }
