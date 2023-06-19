@@ -19,6 +19,6 @@ int main() {
 
 	//unlimited loop untuk menulis
 	while (true) {
-
+		cout << "_ ";
 	}
 }
